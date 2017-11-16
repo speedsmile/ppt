@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>图片尺寸</title>
+    <style>
+        .png, .svg{
+            display: inline-block;
+            height: 1em;
+            line-height: 1em;
+        }
+        img{
+            line-height: 1;
+            height: 100%;
+        }
+    </style>
+</head>
+<body style="font-size: 40px;">
+<div class="png">
+    <img src="眼睛.png" alt="">
+</div>
+<div class="svg">
+    <img src="眼睛.svg" alt="">
+</div>
+<script>
+    var rate = 1;
+    document.body.addEventListener("keyup", function(e){
+        // 0 是 96
+        var keyCode = e.keyCode;
+        if(keyCode == 96){
+            rate = 1;
+        }else if(keyCode == 107 || (e.shiftKey && keyCode == 187)){ // + 107
+            rate++
+        }else if(keyCode == 109 || (e.shiftKey && keyCode == 189)){ // - 109
+            rate--
+        }
+        document.body.style.fontSize = 40 * rate + "px"
+    })
+</script>
+</body>
+</html>
