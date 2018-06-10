@@ -1,0 +1,127 @@
+****************** 像素相关 start ***********************
+
+通俗易懂！超全面的移动端尺寸基础知识科普指南
+http://www.uisdc.com/mobile-ui-measurement-guideline
+
+用最直观的案例，帮你彻底搞懂UI和Web的尺寸单位
+http://www.uisdc.com/ui-web-size-measurement
+
+
+基础知识学起来！为设计师量身打造的DPI指南
+http://www.uisdc.com/designers-guide-to-dpi
+
+知识小科普！像素英寸与dpi的那些事儿
+http://www.uisdc.com/resolution-pixels-inches-dpi
+
+
+
+屏幕尺寸、屏幕分辨率、屏幕像素密度
+http://www.uisdc.com/viewport-px-study
+
+像素和点大不同
+http://www.uisdc.com/pt-and-px
+
+****************** 像素相关 end ***********************
+
+iOS App图标和启动画面尺寸
+http://www.jianshu.com/p/adpKye
+
+
+
+****************** 这个控件叫什么 ***********************
+
+「这个控件叫什么」系列之小红点+索引导航+分段控件
+徽标（Badge）
+A-Z index/字母索引导航
+Segment Controls/分段控件（附录与Tabs的区别）
+
+http://www.uisdc.com/badge-az-index-segment-controls
+
+
+「这个控件叫什么」系列之加载占位图+页面指示器
+
+Skeleton Screen/加载占位图
+Page Indicator/Page Controls/页面指示器
+
+http://www.uisdc.com/skeleton-screen-page-indicator
+
+
+「这个控件叫什么」系列之步进器+Switch
+Stepper/步进器
+Switch/开关/滑动开关/切换开关
+
+http://www.uisdc.com/stepper-and-switch
+
+
+「这个控件叫什么」系列之Toast（吐司提示）的曾经、现在与未来
+http://www.uisdc.com/ui-element-toast
+
+「这个控件叫什么」系列之Picker/选择器/拾取器
+http://www.uisdc.com/ui-element-picker
+
+
+「这个控件叫什么」系列之动作菜单/动作面板
+http://www.uisdc.com/ui-element-action-sheet
+
+
+「这个控件叫什么」系列之虚拟键盘/软键盘/Soft Keyboard
+http://www.uisdc.com/soft-keyboard-design-element
+
+
+****************** 这个控件叫什么 ***********************
+控件
+http://www.uisdc.com/basic-elements-in-ui-design
+
+从设计指南说起，详解iOS系统组件分类体系
+http://www.uisdc.com/ios-element-classification-system
+
+
+****************** 尺寸 ***********************
+知识小科普！像素英寸与dpi的那些事儿
+http://www.uisdc.com/resolution-pixels-inches-dpi
+
+用最直观的案例，帮你彻底搞懂UI和Web的尺寸单位
+http://www.uisdc.com/ui-web-size-measurement
+
+基础知识学起来！为设计师量身打造的DPI指南 
+http://www.uisdc.com/designers-guide-to-dpi
+
+****************** 高手帮你学规范 ***********************
+iOS和Android规范解析之提示框+警告框
+http://www.uisdc.com/ios-android-toast-alarts
+
+iOS和Android规范解析之简易菜单+弹框
+http://www.uisdc.com/ios-android-simple-menu-popovers
+
+iOS和Android规范解析之底部浮层
+http://www.uisdc.com/ios-android-persistent-modal-sheet
+
+iOS和Android规范解析之按钮
+http://www.uisdc.com/ios-android-buttons
+
+推荐：交互设计七大定律
+http://www.uisdc.com/7-interaction-design
+
+5分钟带你了解经典的费茨定律
+http://www.uisdc.com/product-details-wiedemann-franz-law
+
+在移动界面设计中应用费茨法则
+http://www.uisdc.com/fitts-law-to-mobile-interface
+
+超全面的UI设计切图规范指南
+http://www.uisdc.com/ui-design-slice-guideline
+
+界面设计必备！全方位科普常用的字体规范（附神器）
+http://www.uisdc.com/font-use-of-standard
+
+纯干货！一款APP从设计稿到切图过程全方位揭秘
+http://www.uisdc.com/from-design-to-slice
+iOS和Android规范解析之标签导航和分段控件
+http://www.uisdc.com/ios-android-tabs?utm_source=gold_browser_extension
+
+
+iOS版和安卓的规范解析之底部标签导航
+http://www.uisdc.com/ios-android-tab
+
+手指触摸
+http://www.uisdc.com/mobile-touchscreen-target-sizes-of-design
